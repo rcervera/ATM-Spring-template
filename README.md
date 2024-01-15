@@ -41,7 +41,7 @@ Desenvolupar una aplicació que simuli un caixer automàtic (ATM) d’un banc.
 - L’operativa del caixer s’haurà d’implementar a través d’una interfície gràfica de tipus web amb SPRING
 - Interfície gràfica en Thyme Leaf d’SPRING 
 - Estructura del programa en arquitectura MVC (Model-Vista-Controlador)
-- Fer ús del Diagrama UML de classes adjunt del Model
+- Fer ús del Diagrama UML de classes adjunt del [Model](https://github.com/rcervera/ATM-Spring-template/blob/main/ATM-UML-Class%20diagram.png).
 - Gestió d’errors i excepcions
 - Codi documentat amb notació Javadoc
 - Ús de col·leccions d’objectes (ArrayList o equivalents) per a la gestió de les llistes d’objectes en memòria
