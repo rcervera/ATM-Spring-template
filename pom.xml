@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.daw</groupId>
-	<artifactId>parking</artifactId>
+	<artifactId>ATM</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>parking</name>
-	<description>SimulaciÃ³ d&apos;un parking</description>
+	<name>ATM</name>
+	<description>SimulaciÃ³ d&apos;un ATM</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
