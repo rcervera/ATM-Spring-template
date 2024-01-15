@@ -28,7 +28,7 @@ Desenvolupar una aplicació que simuli un caixer automàtic (ATM) d’un banc.
 
 - Els diferents moviments que ha fet el client en un dels seus comptes podran ser consultats. De cada moviment n’haurem de saber: el tipus (ingrés, transferència…,), la data, quantitat diners implicats, …
 
-## PART NO GUIADA
+## Part no guiada
  - El caixer opera únicament amb bitllets, i en disposa d’una certa quantitat de cada un d’ells. Les operacions d’extracció i d'ingrés afecten a la quantitat de diners emmagatzemada en el caixer. Quan es fan operacions d’extracció s’ha de comprovar que l’operació sigui possible segons els bitllets disponibles. S’ha d’informar al client de les quantitats de bitllets lliurades en l’operació. Quan es fa un ingrès podem utilitzar un teclat amb botons amb les diferents quantitats per indicar la quantitat dipositada.
 
 - S’haurà d’implementar com a mínim una altra funcionalitat al caixer, diferent a les que s’han descrit anteriorment i que considereu que pot ser d’utilitat.
